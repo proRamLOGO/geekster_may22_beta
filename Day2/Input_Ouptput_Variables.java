@@ -1,3 +1,4 @@
+package Day2;
 // "static void main" must be defined in a public class.
 
 import java.util.*;

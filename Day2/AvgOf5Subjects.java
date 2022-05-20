@@ -1,3 +1,4 @@
+package Day2;
 import java.util.*;
 public class AvgOf5Subjects {
     Scanner input = new Scanner(System.in);
