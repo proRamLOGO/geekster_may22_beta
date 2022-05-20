@@ -14,6 +14,35 @@ public class IfElseSyntax {
         /// STATEMENTS
     }]
 
+    if
+
+    if
+    else
+
+    if
+    else if
+    else
+
+    if
+    else if
+    else if
+    else if
+    else if
+    else if
+    else
+    
+    if
+    else if
+    else if
+    else if
+    else if
+
+    if
+    if
+    if
+    if
+
+
 
 
 }
